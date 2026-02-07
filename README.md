@@ -95,10 +95,11 @@ This \(a\) is for **950nm wavelength**.
 ---
 
 ## TABULATION
-
+---
 ![CALCULTION](https://github.com/user-attachments/assets/c3c88bc4-082a-474b-817e-2f0f11454abb)
 ![TABULATION](https://github.com/user-attachments/assets/ec175d29-638f-4165-9135-f2f78a212a17)
 
+---
 
 
 
