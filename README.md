@@ -14,7 +14,7 @@ To measure propagation loss & bending losses for two different wavelengths in pl
 - 1 Meter Fiber Cable  
 
 ---
-
+ 
 ## THEORY
 Optical Fibers are available in different varieties of materials. These materials are usually selected by taking into account their absorption characteristics for different wavelengths of light.  
 
