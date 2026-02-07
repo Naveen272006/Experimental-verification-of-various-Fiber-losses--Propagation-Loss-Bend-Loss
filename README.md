@@ -5,6 +5,7 @@
 To measure propagation loss & bending losses for two different wavelengths in plastic Fiber provided with the kit.
 
 ## EQUIPMENTS REQUIRED
+
 - Link-B Kit with power supply - Patch chords  
 - 20MHz Dual Channel Oscilloscope  
 - 1 MHz Function Generator  
