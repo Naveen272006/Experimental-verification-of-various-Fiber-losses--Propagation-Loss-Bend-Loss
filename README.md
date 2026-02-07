@@ -94,15 +94,18 @@ This \(a\) is for **950nm wavelength**.
 
 ---
 ## CALCULATION
-
+---
 ![CALCULTION](https://github.com/user-attachments/assets/4c3b10e7-5031-412f-9ed7-ca6f428b8f61)
 
+---
 
 ## TABULATION
 
 ![TABULATION](https://github.com/user-attachments/assets/33cca67e-2b9f-49e4-af66-d0714ac63da1)
 
+---
 
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
 - Attenuation values compared and bending loss characteristics plotted.  
+---
